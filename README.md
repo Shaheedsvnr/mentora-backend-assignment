@@ -127,7 +127,7 @@ This endpoint integrates with Google Gemini models and automatically falls back 
 # Project Structure
 
 ```
-mentora-backend
+mentora-backend-assignment
 │
 ├── config
 │   └── db.js
@@ -188,13 +188,13 @@ For security reasons, **API keys are not included in the repository**.
 Clone the repository
 
 ```
-git clone https://github.com/your-username/mentora-backend.git
+git clone https://github.com/Shaheedsvnr/mentora-backend-assignment.git
 ```
 
 Navigate into the project folder
 
 ```
-cd mentora-backend
+cd mentora-backend-assignment
 ```
 
 Install dependencies
